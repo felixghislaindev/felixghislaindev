@@ -5,11 +5,11 @@
 I am a front-end engineer who enjoys building user-friendly building web apps, and everything in between.
 Since my university years I've been  interested and facinated about web developpment and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through code. ✨😍
 
-Most recently, i have been building and working on web app
+Most recently, i have worked on an application to help with distribution of personalized ad on social media platforms(Facebook, Twitter ect..)
 
 >"Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder."~Gildarts Clive (Fairy Tail)
 
-i' am always trying to grow and learning something new. i lose track of time when learning languages, reading or listining to a good book.
+I’am always trying to grow and learning something new. i lose track of time when learning languages, reading or listining to a good book.
 
 
 ### Talking About Personal Stuffs:
@@ -18,10 +18,10 @@ i' am always trying to grow and learning something new. i lose track of time whe
 - 🤔 I’m looking for help with interesting projects that have meaning behind them.
 - 📫 How to reach me: felixghislain@yahoo.com.
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I love pc games(LOL, Valorant, COD) and love film photography.
+- ⚡ Fun fact: I love pc games (LOL, Valorant, COD), love film photography and an anime fan.
 
 ### What I'm focusing on 👨‍💻
-Currently improving my skills: React Typesscript Graphql Node js
+Currently improving my skills: React Typescript Graphql Node js.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixghislaindev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
