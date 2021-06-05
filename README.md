@@ -12,7 +12,7 @@ Most recently, i have worked on an application to help with distribution of pers
 I’am always trying to grow and learning something new. i lose track of time when learning languages, reading or listining to a good book.
 
 
-### Talking About Personal Stuffs:
+### Talking About Personal Stuffs
 - 🔭 I’m currently working at @formyself
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with interesting projects that have meaning behind them.
@@ -23,6 +23,7 @@ I’am always trying to grow and learning something new. i lose track of time wh
 ### What I'm focusing on 👨‍💻
 Currently improving my skills: React Typescript Graphql Node js.
 
+### GitHub Stats 📈 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixghislaindev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felixghislain&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
