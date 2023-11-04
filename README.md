@@ -1,15 +1,15 @@
-### Hi there, i'm Felix Ghislain👋
+### Hi there, I'm Felix Ghislain👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-ghislain-5421b2163/)
-[![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) 
+
 
 I am a front-end engineer who enjoys building user-friendly web apps, and everything in between.
-Since my university years I've been  interested and facinated about web developpment and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through code. ✨😍
+Since my university years, I've been  interested and fascinated by web development and creating modern and user-friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through code. ✨😍
 
-Most recently, i have worked on an application to help with distribution of personalized ad on social media platforms(Facebook, Twitter ect..)
+Most recently, I have worked on an application to help with the distribution of personalized ads on social media platforms(Facebook, Twitter etc...)
 
 >"Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder."~Gildarts Clive (Fairy Tail)
 
-I’am always trying to grow and learning something new. i lose track of time when learning languages, reading or listining to a good book.
+I am always trying to grow and learn something new. I lose track of time when learning languages, reading, or listening to a good book.
 
 
 ### Talking About Personal Stuffs
@@ -18,7 +18,7 @@ I’am always trying to grow and learning something new. i lose track of time wh
 - 🤔 I’m looking for help with interesting projects that have meaning behind them.
 - 📫 How to reach me: felixghislain@yahoo.com.
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I love pc games (LOL, Valorant, COD), love film photography and an anime fan.
+- ⚡ Fun fact: I love pc games (LOL, Valorant, COD), love film photography, and am an anime fan.
 
 ### What I'm focusing on 👨‍💻
 Currently improving my skills: React Typescript Graphql Node js.
