@@ -13,10 +13,10 @@ I am always trying to grow and learn something new. I lose track of time when le
 
 
 ### Talking About Personal Stuffs
-- 🔭 I’m currently working at @formyself
+- 🔭 I’m currently working formyself -> @moonlithex
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with interesting projects that have meaning behind them.
-- 📫 How to reach me: felixghislain@yahoo.com.
+- 📫 How to reach me: moonlithex@proton.me
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I love pc games (LOL, Valorant, COD), love film photography, and am an anime fan.
 
